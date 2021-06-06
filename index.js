@@ -19,6 +19,3 @@ class Formatter {
     }).join(' ')
   }
 }
-
-const str = Formatter.titleize('from at but hello friends');
-console.log(str)
